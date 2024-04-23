@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coderine-nyx
-- 🌱 I’m currently learning Phyton
+- 🌱 I’m currently learning Python and Java
 
 <!---
 coderine-nyx/coderine-nyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
